@@ -2,6 +2,8 @@
 
 
 <h1 align="center">Hi 👋, I'm MAYANK </h1>
+
+<h3 align="center"> I am a Machine Learning Engineer / Web Developer </h3>
 🦾I am currently a Machine Learning Engineer <br><br>🌐Part time Full stack web developer<br><br>💬Ask me about deep learning, computer vision & DSA 
 
 
