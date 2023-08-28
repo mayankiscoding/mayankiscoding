@@ -4,9 +4,10 @@
 <h1 align="center">Hi 👋, I'm MAYANK </h1>
 
 <h3 align="center"> I am a Machine Learning Engineer / Web Developer </h3>
-[![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
 
-🦾I am currently a Machine Learning Engineer <br><br>🌐Part time Full stack web developer<br><br>💬Ask me about deep learning, computer vision & DSA 
+<img align="right" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width="300" height="400">
+
+🦾I am currently a Machine Learning Engineer <br><br>🌐Part time Full stack web developer<br><br>💬Ask me about deep learning, computer vision & DSA <br><br> 📫How to reach me @mayankdivakar2703@gmail.com
 
 
 ## 🌐 Socials:
