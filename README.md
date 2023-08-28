@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MAYANK </h1>
 🦾I am currently a Machine Learning Engineer <br><br>🌐Part time Full stack web developer<br><br>💬Ask me about deep learning, computer vision & DSA 
-<img src="https://cdn.dribbble.com/users/25906/screenshots/2527157/media/5e5a8b63c89e20a1d4ee924535758308.gif" width="40" height="40" />
+<img align="right" src="https://cdn.dribbble.com/users/25906/screenshots/2527157/media/5e5a8b63c89e20a1d4ee924535758308.gif" width="150" height="150" />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@myank.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayankprogrammer) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@divakar_mayank) 
