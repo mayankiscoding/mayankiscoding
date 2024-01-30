@@ -1,11 +1,11 @@
-<image src="https://www.behance.net/embed/project/165684019?ilo0=1"></image>
+<image src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif" width="auto" height="600"></image>
 
 
 <h1 align="center">Hi 👋, I'm MAYANK </h1>
 
 <h3 align="center" style="font-family:sans-serif"> I am a Machine Learning Engineer / Web Developer </h3>
 
-<img align="right" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width="400" height="400">
+<img align="right" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="400" height="400">
 <img src="https://komarev.com/ghpvc/?username=mayankiscoding">
 
 <br><br><br><br>
