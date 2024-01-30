@@ -5,7 +5,7 @@
 
 <h3 align="center" style="font-family:sans-serif"> I am a Machine Learning Engineer / Web Developer </h3>
 
-<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="auto" height="400">
+<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="auto" height="200">
 <img src="https://komarev.com/ghpvc/?username=mayankiscoding">
 
 <br><br><br><br>
