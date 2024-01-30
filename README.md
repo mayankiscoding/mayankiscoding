@@ -1,11 +1,11 @@
-<image src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif" width="auto" height="800"></image>
+<image src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif" ></image>
 
 
 <h1 align="center">Hi 👋, I'm MAYANK </h1>
 
 <h3 align="center" style="font-family:sans-serif"> I am a Machine Learning Engineer / Web Developer </h3>
 
-<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="400" height="400">
+<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="auto" height="400">
 <img src="https://komarev.com/ghpvc/?username=mayankiscoding">
 
 <br><br><br><br>
